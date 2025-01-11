@@ -34,10 +34,15 @@ CONNEXTA/
 │   │   ├── main.css
 │   │   ├── reset.css
 │   │   └── responsive.css
+│   │
+│   ├── favicon/
+│   │   └── favicon.ico
+│   │
 │   └── img/
 │       ├── background.jpg
 │       ├── formulario.gif
 │       └── logo-atual.png
+│       
 ├── index.html
 ├── LICENSE
 └── README.md
