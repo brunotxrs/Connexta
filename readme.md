@@ -24,7 +24,7 @@ O **CONNEXTA** é uma aplicação simples de página de login que explora os con
 
 <img src="./src/img/formulario.gif" alt="Prévia do CONNEXTA">
 
-### 🌐 [Acesse o Projeto Online](https://brunotxrs.github.io/CONNEXTA/)
+### 🌐 [Acesse o Projeto Online](https://brunotxrs.github.io/Connexta/)
 
 ## 📂 Estrutura de Arquivos
 ```plaintext
